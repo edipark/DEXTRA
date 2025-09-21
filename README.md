@@ -1,5 +1,5 @@
 # DEXTRA
-Yonsei University Humanoid Project
+Yonsei University 'ROBOIN' Humanoid Project
 
 ### Installation
 1. Follow the direction of Dynamixel SDK Tutorial and install SDK
